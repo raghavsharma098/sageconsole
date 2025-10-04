@@ -1,0 +1,37 @@
+[
+    {
+        "id": "MQ1",
+        "question": "Does your manufacturing facility have ISO 14001 certification?",
+        "type": "multiple-choice",
+        "options": ["Yes, current", "Yes, but expired", "No, but pursuing", "No"],
+        "category": "Environmental"
+    },
+    {
+        "id": "MQ2",
+        "question": "What is your primary approach to waste management?",
+        "type": "multiple-choice",
+        "options": ["Zero waste to landfill", "Recycling and reduction", "Standard disposal", "No formal approach"],
+        "category": "Environmental"
+    },
+    {
+        "id": "MQ3",
+        "question": "Do you monitor water usage in your manufacturing processes?",
+        "type": "multiple-choice",
+        "options": ["Yes, with reduction targets", "Yes, but no targets", "No, but planning to", "No"],
+        "category": "Environmental"
+    },
+    {
+        "id": "MQ4",
+        "question": "What safety standards do you follow?",
+        "type": "multiple-choice",
+        "options": ["OSHA and industry standards", "OSHA only", "Industry standards only", "Basic safety measures"],
+        "category": "Social"
+    },
+    {
+        "id": "MQ5",
+        "question": "Do you have supplier sustainability requirements?",
+        "type": "multiple-choice",
+        "options": ["Yes, mandatory", "Yes, preferred", "No, but considering", "No"],
+        "category": "Governance"
+    }
+]

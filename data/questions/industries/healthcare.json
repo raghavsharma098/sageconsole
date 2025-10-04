@@ -1,0 +1,58 @@
+[
+    {
+        "id": "HQ1",
+        "question": "Do you have comprehensive medical waste management protocols?",
+        "type": "multiple-choice",
+        "options": ["Yes, comprehensive protocols", "Yes, basic protocols", "In development", "No"],
+        "category": "Environmental"
+    },
+    {
+        "id": "HQ2",
+        "question": "Do you have patient privacy and data security measures?",
+        "type": "multiple-choice",
+        "options": ["Yes, HIPAA compliant and beyond", "Yes, basic HIPAA compliance", "In development", "Limited measures"],
+        "category": "Governance"
+    },
+    {
+        "id": "HQ3",
+        "question": "Do you provide equal access to healthcare services for all patients?",
+        "type": "multiple-choice",
+        "options": ["Yes, comprehensive accessibility", "Yes, basic accessibility", "Limited accessibility", "No"],
+        "category": "Social"
+    },
+    {
+        "id": "HQ4",
+        "question": "Do you use energy-efficient medical equipment and facilities?",
+        "type": "multiple-choice",
+        "options": ["Yes, mostly efficient", "Yes, some efficient equipment", "No, but planning upgrades", "No"],
+        "category": "Environmental"
+    },
+    {
+        "id": "HQ5",
+        "question": "Do you have sustainable pharmaceutical and supply chain practices?",
+        "type": "multiple-choice",
+        "options": ["Yes, comprehensive sustainability", "Yes, basic sustainability", "Considering improvements", "No"],
+        "category": "Environmental"
+    },
+    {
+        "id": "HQ6",
+        "question": "Do you ensure healthcare worker safety and wellbeing?",
+        "type": "multiple-choice",
+        "options": ["Yes, comprehensive safety programs", "Yes, basic safety measures", "Limited safety programs", "No"],
+        "category": "Social"
+    },
+    {
+        "id": "HQ7",
+        "question": "Do you have community health outreach and education programs?",
+        "type": "multiple-choice",
+        "options": ["Yes, extensive outreach", "Yes, basic outreach", "Limited programs", "No"],
+        "category": "Social"
+    },
+    {
+        "id": "HQ8",
+        "question": "Do you have transparent quality reporting and patient safety metrics?",
+        "type": "multiple-choice",
+        "options": ["Yes, comprehensive reporting", "Yes, basic reporting", "Limited reporting", "No"],
+        "category": "Governance"
+    }
+]

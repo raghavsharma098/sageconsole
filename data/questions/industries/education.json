@@ -1,0 +1,58 @@
+[
+    {
+        "id": "EDQ1",
+        "question": "Do you have sustainable campus operations and energy management?",
+        "type": "multiple-choice",
+        "options": ["Yes, comprehensive green campus", "Yes, basic sustainability measures", "Limited green initiatives", "No"],
+        "category": "Environmental"
+    },
+    {
+        "id": "EDQ2",
+        "question": "Do you incorporate sustainability education in your curriculum?",
+        "type": "multiple-choice",
+        "options": ["Yes, integrated across programs", "Yes, dedicated sustainability courses", "Limited sustainability content", "No"],
+        "category": "Environmental"
+    },
+    {
+        "id": "EDQ3",
+        "question": "Do you have waste reduction and recycling programs?",
+        "type": "multiple-choice",
+        "options": ["Yes, comprehensive program", "Yes, basic recycling", "Limited waste management", "No"],
+        "category": "Environmental"
+    },
+    {
+        "id": "EDQ4",
+        "question": "Do you ensure inclusive and accessible education for all students?",
+        "type": "multiple-choice",
+        "options": ["Yes, fully inclusive", "Yes, mostly accessible", "Basic accessibility", "Limited accessibility"],
+        "category": "Social"
+    },
+    {
+        "id": "EDQ5",
+        "question": "Do you have diversity and inclusion programs for faculty and students?",
+        "type": "multiple-choice",
+        "options": ["Yes, comprehensive programs", "Yes, basic programs", "In development", "No"],
+        "category": "Social"
+    },
+    {
+        "id": "EDQ6",
+        "question": "Do you have mental health and wellbeing support services?",
+        "type": "multiple-choice",
+        "options": ["Yes, comprehensive services", "Yes, basic services", "Limited services", "No"],
+        "category": "Social"
+    },
+    {
+        "id": "EDQ7",
+        "question": "Do you have transparent governance and financial reporting?",
+        "type": "multiple-choice",
+        "options": ["Yes, full transparency", "Yes, basic reporting", "Limited disclosure", "No"],
+        "category": "Governance"
+    },
+    {
+        "id": "EDQ8",
+        "question": "Do you have ethical research and academic integrity policies?",
+        "type": "multiple-choice",
+        "options": ["Yes, comprehensive policies", "Yes, basic policies", "Limited policies", "No"],
+        "category": "Governance"
+    }
+]
