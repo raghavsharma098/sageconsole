@@ -1,0 +1,37 @@
+{
+  "name": "sustaniable",
+  "version": "1.0.0",
+  "description": "A comprehensive web application for company sustainability assessments with AI-powered insights",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sustainability",
+    "assessment",
+    "AI",
+    "gemini",
+    "express",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^17.2.1",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "express-session": "^1.18.2",
+    "html-pdf": "^3.0.1",
+    "jspdf": "^3.0.1",
+    "mongoose": "^8.17.0",
+    "multer": "^2.0.2",
+    "pdfkit": "^0.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

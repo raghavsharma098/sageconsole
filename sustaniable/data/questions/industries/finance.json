@@ -1,0 +1,107 @@
+[
+  {
+    "id": "FQ1",
+    "question": "Do you have ethical investment policies and ESG screening?",
+    "type": "multiple-choice",
+    "options": [
+      "Yes, comprehensive ESG screening",
+      "Yes, basic screening",
+      "In development",
+      "No"
+    ],
+    "category": "Governance"
+  },
+  {
+    "id": "FQ2",
+    "question": "Do you measure and report your financed emissions?",
+    "type": "multiple-choice",
+    "options": [
+      "Yes, regularly measured and reported",
+      "Yes, occasionally measured",
+      "No, but planning to",
+      "No"
+    ],
+    "category": "Environmental"
+  },
+  {
+    "id": "FQ3",
+    "question": "Do you have financial inclusion and accessibility programs?",
+    "type": "multiple-choice",
+    "options": [
+      "Yes, comprehensive programs",
+      "Yes, limited programs",
+      "In development",
+      "No"
+    ],
+    "category": "Social"
+  },
+  {
+    "id": "FQ4",
+    "question": "Do you have transparent reporting of executive compensation?",
+    "type": "multiple-choice",
+    "options": [
+      "Yes, fully transparent",
+      "Yes, basic disclosure",
+      "Limited disclosure",
+      "No"
+    ],
+    "category": "Governance"
+  },
+  {
+    "id": "FQ5",
+    "question": "Do you support green and sustainable finance initiatives?",
+    "type": "multiple-choice",
+    "options": [
+      "Yes, extensive green finance",
+      "Yes, some green products",
+      "Considering green finance",
+      "No"
+    ],
+    "category": "Environmental"
+  },
+  {
+    "id": "FQ6",
+    "question": "Do you have responsible lending and customer protection practices?",
+    "type": "multiple-choice",
+    "options": [
+      "Yes, comprehensive protection",
+      "Yes, basic protection",
+      "Limited protection",
+      "No"
+    ],
+    "category": "Social"
+  },
+  {
+    "id": "FQ7",
+    "question": "Do you have robust cybersecurity and data protection measures?",
+    "type": "multiple-choice",
+    "options": [
+      "Yes, advanced security",
+      "Yes, basic security",
+      "Improving security",
+      "Limited security"
+    ],
+    "category": "Governance"
+  },
+  {
+    "id": "FQ8",
+    "question": "Do you have diversity and inclusion policies in hiring and promotion?",
+    "type": "multiple-choice",
+    "options": [
+      "Yes, comprehensive policies",
+      "Yes, basic policies",
+      "In development",
+      "No"
+    ],
+    "category": "Social"
+  },
+  {
+    "id": "IQ9",
+    "question": "hello",
+    "type": "multiple-choice",
+    "options": [
+      "yes"
+    ],
+    "category": "Environmental"
+  }
+]

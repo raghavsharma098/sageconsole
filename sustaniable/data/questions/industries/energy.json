@@ -1,0 +1,44 @@
+[
+    {
+        "id": "ENQ1",
+        "question": "Do you have renewable energy generation or sourcing programs?",
+        "type": "multiple-choice",
+        "options": ["Yes, 100% renewable", "Yes, majority renewable", "Some renewable sources", "No"],
+        "category": "Environmental"
+    },
+    {
+        "id": "ENQ2",
+        "question": "Do you have carbon emissions reduction targets and programs?",
+        "type": "multiple-choice",
+        "options": ["Yes, science-based targets", "Yes, basic targets", "Informal targets", "No"],
+        "category": "Environmental"
+    },
+    {
+        "id": "ENQ3",
+        "question": "Do you invest in clean energy infrastructure?",
+        "type": "multiple-choice",
+        "options": ["Yes, significant investment", "Yes, moderate investment", "Limited investment", "No"],
+        "category": "Environmental"
+    },
+    {
+        "id": "ENQ4",
+        "question": "Do you engage with local communities on energy projects?",
+        "type": "multiple-choice",
+        "options": ["Yes, extensive engagement", "Yes, basic engagement", "Limited engagement", "No"],
+        "category": "Social"
+    },
+    {
+        "id": "ENQ5",
+        "question": "Do you ensure worker safety in energy operations?",
+        "type": "multiple-choice",
+        "options": ["Yes, comprehensive safety", "Yes, basic safety", "Limited safety measures", "No"],
+        "category": "Social"
+    },
+    {
+        "id": "ENQ6",
+        "question": "Do you have transparent energy transition reporting?",
+        "type": "multiple-choice",
+        "options": ["Yes, detailed reporting", "Yes, basic reporting", "Limited disclosure", "No"],
+        "category": "Governance"
+    }
+]

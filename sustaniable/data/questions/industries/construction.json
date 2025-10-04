@@ -1,0 +1,58 @@
+[
+    {
+        "id": "CQ1",
+        "question": "Do you have sustainable building materials sourcing policies?",
+        "type": "multiple-choice",
+        "options": ["Yes, comprehensive", "Yes, basic", "In development", "No"],
+        "category": "Environmental"
+    },
+    {
+        "id": "CQ2",
+        "question": "Do you implement waste reduction practices on construction sites?",
+        "type": "multiple-choice",
+        "options": ["Yes, comprehensive recycling", "Yes, basic waste management", "Limited practices", "No"],
+        "category": "Environmental"
+    },
+    {
+        "id": "CQ3",
+        "question": "Do you have energy-efficient construction practices?",
+        "type": "multiple-choice",
+        "options": ["Yes, green building standards", "Yes, some efficiency measures", "In development", "No"],
+        "category": "Environmental"
+    },
+    {
+        "id": "CQ4",
+        "question": "Do you ensure worker safety and health standards?",
+        "type": "multiple-choice",
+        "options": ["Yes, exceeds OSHA standards", "Yes, meets OSHA standards", "Basic safety measures", "Limited safety measures"],
+        "category": "Social"
+    },
+    {
+        "id": "CQ5",
+        "question": "Do you have fair labor practices for construction workers?",
+        "type": "multiple-choice",
+        "options": ["Yes, comprehensive policies", "Yes, basic fair wages", "Limited practices", "No"],
+        "category": "Social"
+    },
+    {
+        "id": "CQ6",
+        "question": "Do you engage with local communities for construction projects?",
+        "type": "multiple-choice",
+        "options": ["Yes, comprehensive engagement", "Yes, basic consultation", "Limited engagement", "No"],
+        "category": "Social"
+    },
+    {
+        "id": "CQ7",
+        "question": "Do you have transparent project reporting and documentation?",
+        "type": "multiple-choice",
+        "options": ["Yes, comprehensive reporting", "Yes, basic documentation", "Limited reporting", "No"],
+        "category": "Governance"
+    },
+    {
+        "id": "CQ8",
+        "question": "Do you have supplier sustainability requirements?",
+        "type": "multiple-choice",
+        "options": ["Yes, mandatory requirements", "Yes, preferred criteria", "In development", "No"],
+        "category": "Governance"
+    }
+]

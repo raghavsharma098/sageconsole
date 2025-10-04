@@ -1,0 +1,58 @@
+[
+    {
+        "id": "AGQ1",
+        "question": "Do you practice sustainable farming methods and soil conservation?",
+        "type": "multiple-choice",
+        "options": ["Yes, certified organic/sustainable", "Yes, mostly sustainable practices", "Some sustainable methods", "No"],
+        "category": "Environmental"
+    },
+    {
+        "id": "AGQ2",
+        "question": "Do you have water conservation and efficient irrigation systems?",
+        "type": "multiple-choice",
+        "options": ["Yes, advanced water management", "Yes, basic conservation", "Limited water efficiency", "No"],
+        "category": "Environmental"
+    },
+    {
+        "id": "AGQ3",
+        "question": "Do you minimize pesticide and chemical fertilizer use?",
+        "type": "multiple-choice",
+        "options": ["Yes, organic/minimal chemicals", "Yes, reduced chemical use", "Some reduction efforts", "No"],
+        "category": "Environmental"
+    },
+    {
+        "id": "AGQ4",
+        "question": "Do you promote biodiversity and ecosystem conservation?",
+        "type": "multiple-choice",
+        "options": ["Yes, comprehensive conservation", "Yes, basic biodiversity practices", "Limited conservation efforts", "No"],
+        "category": "Environmental"
+    },
+    {
+        "id": "AGQ5",
+        "question": "Do you ensure fair labor practices and worker safety?",
+        "type": "multiple-choice",
+        "options": ["Yes, certified fair labor", "Yes, good labor practices", "Basic worker protections", "Limited protections"],
+        "category": "Social"
+    },
+    {
+        "id": "AGQ6",
+        "question": "Do you support local communities and small farmers?",
+        "type": "multiple-choice",
+        "options": ["Yes, extensive community support", "Yes, basic community engagement", "Limited community involvement", "No"],
+        "category": "Social"
+    },
+    {
+        "id": "AGQ7",
+        "question": "Do you ensure animal welfare in livestock operations?",
+        "type": "multiple-choice",
+        "options": ["Yes, certified humane practices", "Yes, good animal welfare", "Basic animal care", "Limited welfare measures"],
+        "category": "Social"
+    },
+    {
+        "id": "AGQ8",
+        "question": "Do you have transparent supply chain and traceability systems?",
+        "type": "multiple-choice",
+        "options": ["Yes, full traceability", "Yes, basic tracking", "Limited transparency", "No"],
+        "category": "Governance"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id": "FBQ1",
+        "question": "Do you have sustainable sourcing practices for ingredients?",
+        "type": "multiple-choice",
+        "options": ["Yes, certified sustainable", "Yes, mostly sustainable", "Some sustainable sourcing", "No"],
+        "category": "Environmental"
+    },
+    {
+        "id": "FBQ2",
+        "question": "Do you have food waste reduction programs?",
+        "type": "multiple-choice",
+        "options": ["Yes, comprehensive program", "Yes, basic program", "In development", "No"],
+        "category": "Environmental"
+    },
+    {
+        "id": "FBQ3",
+        "question": "Do you use sustainable packaging materials?",
+        "type": "multiple-choice",
+        "options": ["Yes, primarily sustainable", "Yes, some sustainable packaging", "Limited use", "No"],
+        "category": "Environmental"
+    },
+    {
+        "id": "FBQ4",
+        "question": "Do you ensure fair labor practices in your supply chain?",
+        "type": "multiple-choice",
+        "options": ["Yes, fully audited", "Yes, mostly audited", "Basic monitoring", "No"],
+        "category": "Social"
+    },
+    {
+        "id": "FBQ5",
+        "question": "Do you have food safety and quality programs?",
+        "type": "multiple-choice",
+        "options": ["Yes, certified programs", "Yes, basic programs", "Limited programs", "No"],
+        "category": "Social"
+    },
+    {
+        "id": "FBQ6",
+        "question": "Do you have transparent nutritional and sourcing information?",
+        "type": "multiple-choice",
+        "options": ["Yes, full transparency", "Yes, basic transparency", "Limited disclosure", "No"],
+        "category": "Governance"
+    }
+]
